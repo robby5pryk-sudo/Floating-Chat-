@@ -72,4 +72,8 @@ Then click "Publish"
 Note: jika tidak mengerti, nanti saya akan membuat vidio tutorial nya.
 Note: if you don't understand, I will make a video tutorial later.
 
+Social media:
+Youtube: Afreldo
+Tiktok: afreldoisking
+
 Created By Afreldo 13/08/2026

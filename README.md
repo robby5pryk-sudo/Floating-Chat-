@@ -6,6 +6,7 @@ Aplikasi ini tidak mengandung virus, berikut bukti kalau aplikasi ini bukan viru
 This application does not contain viruses, here is proof that this application is not a virus that attacks your computer/cellphone.
 
 Pc (EXE): https://www.virustotal.com/gui/file/8c68f31d72eb00129694bea640dce5ca7686dae77ed8f52d24876c63b54f0ba0/detection
+
 Androit (APK): https://www.virustotal.com/gui/file/fc3fb16650cc0a4f41b77ce543afe91ce695b75d20f96a0481802cce8d72d0d2?nocache=1
 
 Versi PC dibuat menggunakan Windows Powershell, kadang dianggap virus tapi tenang tidak ada virus di dalam file nya

@@ -2,6 +2,12 @@
 This application is used to communicate with your friends, it can also be a substitute for Roblox chat for those who don't want to verify but still want to use chat.
 Aplikasi ini fungsinya untuk berkomunikasi dengan teman anda, ini juga bisa menjadi pengganti chat roblox untuk yang gamau verifikasi tapi masih mau menggunakan chat.
 
+Aplikasi ini tidak mengandung virus, berikut bukti kalau aplikasi ini bukan virus yang menyerang komputer/handphone anda
+This application does not contain viruses, here is proof that this application is not a virus that attacks your computer/cellphone.
+
+Pc (EXE): https://www.virustotal.com/gui/file/8c68f31d72eb00129694bea640dce5ca7686dae77ed8f52d24876c63b54f0ba0/detection
+Androit (APK): 
+
 Indonesia:
 Bagaimana cara menggunakan nya?
 Cara menggunakan nya kita harus membuat database dulu, cara membuatnya adalah
@@ -32,10 +38,15 @@ Cara menggunakan nya kita harus membuat database dulu, cara membuatnya adalah
 13. Jika sudah terbuat klik "Rules" lalu ganti rules nya dengan ini 
 
 {
+
   "rules": {
+  
     ".read": true,
+    
     ".write": true
+    
   }
+  
 }
 
 Lalu klik "Publish"
@@ -81,10 +92,15 @@ To use it, we must first create a database. Here's how to do it:
 13. Once created, click "Rules" and change the rules to this:
 
 {
+
 "rules": {
+
 ".read": true,
+
 ".write": true
-}
+
+  }
+
 }
 
 Then click "Publish"
